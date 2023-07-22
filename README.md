@@ -9,7 +9,7 @@
 
 <h3 align="center">My social media:</h3>
 
-<h2 align="center"><a href="https://instagram.com/https://instagram.com/6ky_l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/6ky_l" height="50" width="50" /></a></h2>
+<h2 align="center"><a href="https://www.instagram.com/6ky_l/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/6ky_l" height="50" width="50" /></a></h2>
 
 
 <h3 align="left">Languages and Tools:</h3>
