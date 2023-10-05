@@ -9,3 +9,7 @@
 ![AV](https://github.com/QxAngel/QxAngel/assets/136937878/0fea5dd0-418d-4337-896b-4bf7525baa51)
 
 ![Amarillo](https://github.com/QxAngel/QxAngel/assets/136937878/5add8513-66fe-41fe-bd82-7dd9ed45c563)
+
+![Netflix](https://github.com/QxAngel/QxAngel/assets/136937878/10bf1b23-77d2-4183-9e65-a66d5f9c6420)
+
+![PicsArt](https://github.com/QxAngel/QxAngel/assets/136937878/fc481956-e10e-4469-ac68-b226b275a437)
