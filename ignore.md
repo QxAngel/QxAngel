@@ -15,3 +15,5 @@
 ![PicsArt](https://github.com/QxAngel/QxAngel/assets/136937878/fc481956-e10e-4469-ac68-b226b275a437)
 
 ![Spotify](https://github.com/QxAngel/QxAngel/assets/136937878/7f230d8a-ea1a-4242-956d-455c18e46102)
+
+![Instagram](https://github.com/QxAngel/QxAngel/assets/136937878/7ea47326-6e0f-4dd2-969d-f12c52a8533e)
