@@ -17,3 +17,5 @@
 ![Spotify](https://github.com/QxAngel/QxAngel/assets/136937878/7f230d8a-ea1a-4242-956d-455c18e46102)
 
 ![Instagram](https://github.com/QxAngel/QxAngel/assets/136937878/7ea47326-6e0f-4dd2-969d-f12c52a8533e)
+
+![Kali](https://github.com/QxAngel/QxAngel/assets/136937878/9ec5e1f9-24b9-4c7e-93b3-f25ec0e5a48d)
