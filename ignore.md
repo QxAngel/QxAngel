@@ -22,6 +22,4 @@
 
 ![Agar.io.macro](https://github.com/QxAngel/QxAngel/assets/136937878/5bd3b5a4-c162-4d3f-bdf6-2f16845a07bb)
 
-![Fixtools](https://github.com/QxAngel/QxAngel/assets/136937878/ebf68968-7941-47ac-a609-dd5e05895966)
-
-
+![Fixtools](https://github.com/QxAngel/QxAngel/assets/136937878/2c5ddaae-5742-46a4-8040-52622405ee1e)
