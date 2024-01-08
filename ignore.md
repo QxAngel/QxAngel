@@ -24,5 +24,4 @@
 
 ![AppIcon](https://github.com/QxAngel/QxAngel/assets/136937878/6f96a5e9-fe5e-478a-a5d8-309cf6808b00)
 
-
-![PicsArt](https://github.com/QxAngel/QxAngel/assets/136937878/f38178c1-17cd-4af5-9124-574802e8b88c)
+![PicsArt](https://github.com/QxAngel/QxAngel/assets/136937878/7ddb78ce-9109-47d2-9169-e1af856595c9)
