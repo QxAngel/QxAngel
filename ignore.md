@@ -20,11 +20,3 @@
 
 ![ESign](https://github.com/QxAngel/QxAngel/assets/136937878/392477a6-a78c-42b4-8eb1-ca521924cdb9)
 
-
-
-
-![kali-linux-4k-pm-2880x1800](https://github.com/QxAngel/QxAngel/assets/136937878/5fd358a7-93ae-43de-bef1-bba578b1aa39)
-
-
-
-![kali-bright](https://github.com/QxAngel/QxAngel/assets/136937878/0a857a36-1656-4003-b741-25bd297d58d8)
