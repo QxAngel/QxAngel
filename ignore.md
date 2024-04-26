@@ -4,7 +4,7 @@
 
 ![PicsArt](https://github.com/QxAngel/QxAngel/assets/136937878/7ddb78ce-9109-47d2-9169-e1af856595c9)
 
-![Instagram](https://github.com/QxAngel/QxAngel/assets/136937878/8442a0ba-f66d-4211-b378-3cd33f825a1d)
+![instagram](https://github.com/QxAngel/QxAngel/assets/136937878/9e68d149-64be-4143-8b8c-e7369081b9be)
 
 ![Spotify](https://github.com/QxAngel/QxAngel/assets/136937878/1663d04b-6496-4dd8-adbf-3453f6174e9c)
 
