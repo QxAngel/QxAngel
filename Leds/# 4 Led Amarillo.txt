@@ -1,0 +1,60 @@
+program angelLD
+
+main:
+  CMCON = 7             ' Desactiva el comparador para usar los puertos como digitales
+  TRISB = %00000000     ' Configura RB0 a RB7 como salidas (todos los pines del puerto B como salida)
+
+  PORTB = %00000001
+  Delay_ms(500)
+  PORTB = %00000010
+  Delay_ms(500)
+  PORTB = %00000100
+  Delay_ms(500)
+  PORTB = %00001000
+  Delay_ms(500)
+  PORTB = %00010000
+  Delay_ms(500)
+  PORTB = %00100000
+  Delay_ms(500)
+  PORTB = %01000000
+  Delay_ms(500)
+  PORTB = %10000000
+  Delay_ms(500)
+
+  PORTB = %00000000
+  Delay_ms(250)
+  PORTB = %10000000
+  Delay_ms(250)
+  PORTB = %00000000
+  Delay_ms(250)
+  PORTB = %10000000
+  Delay_ms(250)
+
+  PORTB = %01000000
+  Delay_ms(500)
+  PORTB = %00100000
+  Delay_ms(500)
+  PORTB = %00010000
+  Delay_ms(500)
+  PORTB = %00001000
+  Delay_ms(500)
+  PORTB = %00000100
+  Delay_ms(500)
+  PORTB = %00000010
+  Delay_ms(500)
+  PORTB = %00000001
+  Delay_ms(500)
+  PORTB = %00000000
+
+  Delay_ms(250)
+  PORTB = %00000001
+  Delay_ms(250)
+  PORTB = %00000000
+  Delay_ms(250)
+  PORTB = %00000001
+  Delay_ms(250)
+  PORTB = %00000000
+
+Goto main
+
+end.
