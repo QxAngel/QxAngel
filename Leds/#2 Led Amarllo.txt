@@ -1,0 +1,17 @@
+program angelLD
+
+main:
+  CMCON = 7             ' Desactiva el comparador para usar los puertos como digitales
+  TRISB = %00000000     ' Configura RB0 a RB7 como salidas (todos los pines del puerto B como salida)
+
+  ' Enciende solo RB0 y RB1
+  PORTB = %00000011      ' Enciende RB0 y RB1 (00000011 en binario)
+  Delay_ms(500)          ' Mantiene el estado por 500 ms
+
+  ' Apaga solo RB0 y RB1
+  PORTB = %00000000      ' Apaga todos los pines (incluyendo RB0 y RB1)
+  Delay_ms(500)          ' Mantiene el estado por 500 ms
+
+Goto main                ' Repite el proceso
+
+end.
