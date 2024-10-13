@@ -14,9 +14,9 @@
 
 ![Av](https://github.com/QxAngel/QxAngel/assets/136937878/4e0f47c6-f991-458c-bd2b-d1bb27ad1c25)
 
-![FixToolBox](https://github.com/QxAngel/QxAngel/assets/136937878/a721fef7-0521-44e1-ae80-21b08c006b87)
-
 ![Scarlet](https://github.com/QxAngel/QxAngel/assets/136937878/48b57d3f-05ae-4a39-97ac-d6065e3edc2c)
 
 ![ESign](https://github.com/QxAngel/QxAngel/assets/136937878/392477a6-a78c-42b4-8eb1-ca521924cdb9)
+
+![HDFlix](https://github.com/user-attachments/assets/f84fdc7f-7a3a-47e8-8edd-716c62bf4a7d)
 
