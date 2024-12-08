@@ -20,3 +20,4 @@
 
 ![HDFlix](https://github.com/user-attachments/assets/f84fdc7f-7a3a-47e8-8edd-716c62bf4a7d)
 
+![Minecraft](https://github.com/user-attachments/assets/3fb8931d-7d40-4b2a-8c57-e13e8c5b4dec)
