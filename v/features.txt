@@ -6,7 +6,7 @@ Main Features 1.0:
 	- Rush Glitch
 	- Classic Macro (me-south-1)
 	- x2.5 Game Animations Fast
---------------------------------------------------------------------
+---------------------------------------------------
 - Buttons (Beta):
 	- Macro Button
 	- Invisible Macro Button
@@ -15,7 +15,7 @@ Main Features 1.0:
 	- Add Macro Icon
 	- Shoot Speed (0-2000)
 	- Burst Button (All game modes)
---------------------------------------------------------------------
+---------------------------------------------------
 - MenuMain:
 	- Burst Callback
 	- Classic Callback
@@ -27,7 +27,7 @@ Main Features 1.0:
 	- Adventure Callback
 	- OfflineQuest Callback
 	- Facebook logout Callback
---------------------------------------------------------------------
+---------------------------------------------------
 - Utils
 	- Old Skins (All vanilla skins) iOS 11-16.7
 	- Resize Images
@@ -42,7 +42,7 @@ Main Features 1.0:
 	- Add files / Caches
 	- Delete file / Caches
 	- Clear Caches (Caches, Documents & tmp)
---------------------------------------------------------------------
+---------------------------------------------------
 Change Log:
 	1.1
 	- Support Agar.io 2.28.10
