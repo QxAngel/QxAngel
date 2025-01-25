@@ -1,0 +1,64 @@
+Main Features 1.0: 
+	- New settings options
+	- New UI Mod
+- Settings Notes:
+	- Settings Callback
+	- Rush Glitch
+	- Classic Macro (me-south-1)
+	- x2.5 Game Animations Fast
+--------------------------------------------------------------------
+- Buttons (Beta):
+	- Macro Button
+	- Invisible Macro Button
+	- Move Buttons
+	- Remove Macro Icon
+	- Add Macro Icon
+	- Shoot Speed (0-2000)
+	- Burst Button (All game modes)
+--------------------------------------------------------------------
+- MenuMain:
+	- Burst Callback
+	- Classic Callback
+	- Region Callback
+	- Potions Callback
+	- Party menu Callback
+	- Skin editor Callback
+	- Season Callback
+	- Adventure Callback
+	- OfflineQuest Callback
+	- Facebook logout Callback
+--------------------------------------------------------------------
+- Utils
+	- Old Skins (All vanilla skins) iOS 11-16.7
+	- Resize Images
+	- Steal CustomSkins
+	- Color UI
+	- Dna Bug
+	- Nickname
+	- UILabel
+	- Custom UILabel
+	- Update Label
+	- Offers (Popups)
+	- Add files / Caches
+	- Delete file / Caches
+	- Clear Caches (Caches, Documents & tmp)
+--------------------------------------------------------------------
+Change Log:
+	1.1
+	- Support Agar.io 2.28.10
+	- Added Change Log Sheet
+	- Added Tweak Update Popup ↓
+	- Added AES256 encryption/decryption (CCCrypt)
+	- Full Ipad Support
+	- Added Custom Background (Lobby)
+	- Added Support To Save Images
+	- Supported iOS Versions 11, 12, 13, 14, 15, 16, 17, 18
+	- Fixed Resize Images
+	- Fixed Description Alerts & New UI 
+	- Added Top Contributor to Credits
+
+
+
+
+
+
