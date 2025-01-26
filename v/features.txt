@@ -56,3 +56,4 @@ Change Log:
 	- Fixed Resize Images
 	- Fixed Description Alerts & New UI 
 	- Added Top Contributor to Credits
+	- Added Custom Push Notifications
