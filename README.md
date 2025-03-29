@@ -1,10 +1,9 @@
-<h2 align="center">Hi 🤟, I'm Angel</h2>
-<h3 align="center">hacking and programming enthusiast from México🇲🇽</h3>
+<h2 align="center">Hi I'm Angel 🇲🇽</h2>
+<h3 align="center">I love ethical hacking and programming</h3>
 
-- 👨‍💻 I’m currently working on ios tweaks
-- 🎮 I’m currently working on reverse engineering ios apps
-- ♟️ sometimes created scripts in different languages
-- 💻 I keep learning more programming languages ​​and ethical hacking techniques.
+- 👨‍💻 I’m currently working on iOS Tweaks
+- 🎮 I’m currently working on reverse engineering
+- 💻 Sometimes I make scripts
 <h2></h2>
 
 <h3 align="center">My social media:</h3>
