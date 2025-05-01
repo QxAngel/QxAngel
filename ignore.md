@@ -22,4 +22,4 @@
 
 ![Minecraft](https://github.com/user-attachments/assets/3fb8931d-7d40-4b2a-8c57-e13e8c5b4dec)
 
-![Animock](https://github.com/user-attachments/assets/ca441453-376f-44c5-b7f7-24ad872391ad)
+![Animock](https://github.com/user-attachments/assets/b51e4efa-6376-4c95-bd07-c1dbd7ea93d6)
