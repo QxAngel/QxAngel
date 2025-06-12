@@ -1,13 +1,17 @@
 Main Features 1.0: 
 	- New settings options
 	- New UI Mod
-- Settings Notes:
+Settings Notes:
 	- Settings Callback
+	- Copy & MenuMain
 	- Rush Glitch
 	- Classic Macro (me-south-1)
+	- Emoji Funny
 	- x2.5 Game Animations Fast
 ---------------------------------------------------
-- Buttons (Beta):
+Buttons (Beta):
+	- Respawn Button
+	- MainMenu Button
 	- Macro Button
 	- Invisible Macro Button
 	- Move Buttons
@@ -16,31 +20,35 @@ Main Features 1.0:
 	- Shoot Speed (0-2000)
 	- Burst Button (All game modes)
 ---------------------------------------------------
-- MenuMain:
+MenuMain:
 	- Burst Callback
 	- Classic Callback
 	- Region Callback
 	- Potions Callback
+	- Profile Callback
 	- Party menu Callback
 	- Skin editor Callback
 	- Season Callback
+	- Preview Season
 	- Adventure Callback
+	- Preview Adventure
 	- OfflineQuest Callback
 	- Facebook logout Callback
 ---------------------------------------------------
-- Utils
+Utils
 	- Old Skins (All vanilla skins) iOS 11-16.7
 	- Resize Images
-	- Steal CustomSkins
+	- QxLogs
 	- Color UI
+	- Background
+	- Fake Stats
+	- Notifications
 	- Dna Bug
+	- Free Coins
 	- Nickname
 	- UILabel
 	- Custom UILabel
 	- Update Label
-	- Offers (Popups)
-	- Add files / Caches
-	- Delete file / Caches
 	- Clear Caches (Caches, Documents & tmp)
 ---------------------------------------------------
 Change Log:
@@ -49,11 +57,33 @@ Change Log:
 	- Added Change Log Sheet
 	- Added Tweak Update Popup ↓
 	- Added AES256 encryption/decryption (CCCrypt)
-	- Full Ipad Support
+	- Added Full Ipad Support
 	- Added Custom Background (Lobby)
 	- Added Support To Save Images
-	- Supported iOS Versions 11, 12, 13, 14, 15, 16, 17, 18
-	- Fixed Resize Images
-	- Fixed Description Alerts & New UI 
 	- Added Top Contributor to Credits
 	- Added Custom Push Notifications
+	- Fixed Description Alerts & New UI 
+	- Supported iOS Versions 11, 12, 13, 14, 15, 16, 17, 18
+
+	1.2
+	- Support Agar.io 2.29.0
+	- Added New Security
+	- Added 20 Coins Glitch
+	- Added Custom UI Colors (Game Buttons)
+
+	1.3
+	- Support Agar.io 2.29.2
+	- Added Copy to MainMenu Button
+	- Added Respawn Button
+	- Added Steal ProfilePictures
+
+	1.4
+	- Support Agar.io 2.30.0
+	- Added Steal CustomSkins access via Files app
+	- Added Steal ProfilePictures access via Files app
+	- Added QxLogs Tweak to capture and display NSLog output
+	- Added Emoji Macro for emoji spam
+	- Removed "Steal CustomSkins/ProfilePictures" option
+	- Removed "Offers (Popups)"  
+	- Removed "Add files / Caches" option  
+	- Removed "Delete file / Caches" option
