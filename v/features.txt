@@ -38,9 +38,12 @@ MenuMain:
 Utils
 	- Old Skins (All vanilla skins) iOS 11-16.7
 	- Resize Images
+	- Steal Skins-Pictures
+	- Remove Anarky logo
 	- QxLogs
 	- Color UI
 	- Background
+	- Red Virus
 	- Fake Stats
 	- Notifications
 	- Dna Bug
@@ -57,7 +60,7 @@ Change Log:
 	- Added Change Log Sheet
 	- Added Tweak Update Popup ↓
 	- Added AES256 encryption/decryption (CCCrypt)
-	- Added Full Ipad Support
+	- Added Full ipad Support
 	- Added Custom Background (Lobby)
 	- Added Support To Save Images
 	- Added Top Contributor to Credits
@@ -87,3 +90,11 @@ Change Log:
 	- Removed "Offers (Popups)"  
 	- Removed "Add files / Caches" option  
 	- Removed "Delete file / Caches" option
+
+	1.5
+	- Support Agar.io 2.30.2
+	- Added Red Virus
+	- Added Anarky logo 
+	- Added Auto delete Duplicate-Unused files (CustomSkins - ProfilePics)
+	- Added helper option to monitor stolen skins and pictures
+	- Updated Resize Images
