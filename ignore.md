@@ -19,3 +19,27 @@
 ![Animock](https://github.com/user-attachments/assets/b51e4efa-6376-4c95-bd07-c1dbd7ea93d6)
 
 ![Geometry](https://github.com/user-attachments/assets/c442f6c6-c190-4bf2-9527-1928129b7393)
+
+![TikTok](https://github.com/user-attachments/assets/ce8a813d-8040-4904-b2ba-8c6c107dd22f)
+
+![Instagram](https://github.com/user-attachments/assets/94c4fd8d-0ea4-407c-8bf0-b886885d4a1c)
+
+![YouTube](https://github.com/user-attachments/assets/a6bfdc6d-f9b2-44a8-a659-f283a29e01b5)
+
+![YouTubeMusic](https://github.com/user-attachments/assets/916f458f-7f16-4c42-8f01-1201ff7591b6)
+
+![RGB Keyboard](https://github.com/user-attachments/assets/7261249e-6dfe-4b2b-b92a-69135dc0deb2)
+
+![CopyLog](https://github.com/user-attachments/assets/41a1ca39-03ea-41ba-9907-98436982d5e4)
+
+![Dopamine](https://github.com/user-attachments/assets/b3b53786-0786-4fe2-9b19-0cf6e4ce3669)
+
+![AppStore++](https://github.com/user-attachments/assets/c628b4d7-3c72-49eb-b06f-a861fa386002)
+
+![TrollRecorder](https://github.com/user-attachments/assets/3ea47279-36a3-4f46-8555-b4bd2ad01d11)
+
+![Filza](https://github.com/user-attachments/assets/09649709-86e8-4ee1-bb5c-b5dd4b68f182)
+
+![TrollFools](https://github.com/user-attachments/assets/48e68c0a-c672-42ed-acbb-2db431a5a1c5)
+
+![TrollInstalerX](https://github.com/user-attachments/assets/b2e00cc9-34c2-45d2-a132-3e5d6ca949b8)
