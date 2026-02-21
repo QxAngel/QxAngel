@@ -43,3 +43,7 @@
 ![TrollFools](https://github.com/user-attachments/assets/48e68c0a-c672-42ed-acbb-2db431a5a1c5)
 
 ![TrollInstalerX](https://github.com/user-attachments/assets/b2e00cc9-34c2-45d2-a132-3e5d6ca949b8)
+
+![CashApp](https://github.com/user-attachments/assets/2923e776-e089-4005-9569-e43bec5caa80)
+
+![LiveContainer](https://github.com/user-attachments/assets/2c06ecce-8462-48cc-87b7-7fec3367f193)
